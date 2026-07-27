@@ -1,0 +1,27 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learning React from scratch",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SravanChekuri/before_React.git"
+  },
+  "author": "Sravan Varma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SravanChekuri/before_React/issues"
+  },
+  "homepage": "https://github.com/SravanChekuri/before_React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}

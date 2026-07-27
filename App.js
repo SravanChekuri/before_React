@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 console.log("=====================================================");
 console.log("Learning React js");
 console.log("=====================================================");
